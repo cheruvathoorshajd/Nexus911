@@ -30,7 +30,7 @@ CRITICAL RULES:
 """
 
 root_agent = Agent(
-    model="gemini-2.5-flash",
+    model="gemini-2.5-flash-preview-native-audio-dialog",
     name="nexus911_coordinator",
     instruction=COORDINATOR_INSTRUCTION,
     tools=[
