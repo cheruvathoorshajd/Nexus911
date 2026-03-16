@@ -9,6 +9,9 @@
 [![Google ADK](https://img.shields.io/badge/Google_ADK-Agent_Framework-34A853?style=for-the-badge&logo=google&logoColor=white)]()
 [![Python](https://img.shields.io/badge/Python-3.11+-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)]()
+[![Live on Cloud Run](https://img.shields.io/badge/Live-Cloud_Run-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](https://nexus911-888823131112.us-central1.run.app)
+
+**Live Demo:** [https://nexus911-888823131112.us-central1.run.app](https://nexus911-888823131112.us-central1.run.app)
 
 ---
 
