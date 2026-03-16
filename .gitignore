@@ -8,3 +8,5 @@ node_modules/
 .DS_Store
 .pytest_cache/
 frontend/dist/
+CLAUDE.md
+HACKATHON_CHECKLIST.md
