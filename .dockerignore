@@ -1,0 +1,25 @@
+# Dependencies
+__pycache__/
+*.pyc
+.venv/
+node_modules/
+frontend/node_modules/
+
+# Build outputs (built inside Docker)
+frontend/dist/
+
+# Dev/IDE
+.git/
+.github/
+.vscode/
+*.md
+!README.md
+.env
+.env.*
+.pytest_cache/
+.mypy_cache/
+tests/
+
+# OS
+Thumbs.db
+.DS_Store
