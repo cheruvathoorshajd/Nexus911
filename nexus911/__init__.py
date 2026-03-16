@@ -1,0 +1,4 @@
+from . import agent
+
+GOOGLE_API_KEY="AIzaSyAQfTTzmEuaTlCLew8Gc35nPbA6oqOBbq8"
+GOOGLE_GENAI_USE_VERTEXAI=False
