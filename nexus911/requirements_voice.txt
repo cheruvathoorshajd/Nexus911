@@ -1,8 +1,0 @@
-# Additional voice dependencies — append to requirements.txt
-# For Windows: pip install PyAudio (may need pipwin)
-#   pip install pipwin
-#   pipwin install pyaudio
-# OR download from https://www.lfd.uci.edu/~gohlke/pythonlibs/#pyaudio
-PyAudio>=0.2.14
-google-genai>=1.10.0
-google-adk>=1.2.0
